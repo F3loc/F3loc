@@ -15,6 +15,6 @@ Formada em gestão da informação, mestrado em ciência da computação, profes
 
 ### Redes Socias
 
-(![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/f3loc/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/f3loc/)
 
 
